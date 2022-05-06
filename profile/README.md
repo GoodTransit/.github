@@ -6,6 +6,7 @@ We offer many products (all for free!), these include vacation planning, flight 
 - [Plane Tickets Explorer](https://goodtransit.app/flights),
 - [Vacation Planner](https://goodtransit.app/vacations),
 - [Route Planner](https://goodtransit.app/routes),
+- [Parking Finder](https://goodtransit.app/routes),
 - [and more](https://goodtransit.app/services)!
 
 ### [DEVELOPER SERVICES]
